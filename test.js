@@ -67,7 +67,7 @@ const expectedResults = [
     ["Group_Tools-Hardware", "Category_Roll-Pin"],
     ["Group_Tools-Hardware"],
   ],
-  [["Group_Tools--Hardware"]],
+  [["Group_Tools-Hardware"]],
 ];
 describe("find Combinations From Text function Test", () => {
   test("reguler case test 1", () => {

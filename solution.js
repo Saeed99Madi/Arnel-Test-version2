@@ -53,7 +53,8 @@ const findCombinationsFromText = (text) => {
 function clearPrifex(str) {
   return str
     .replace(/^[^a-zA-Z0-9]+|[^a-zA-Z0-9]+$/g, "")
-    .replace(/[^a-zA-Z0-9_-]|[0-9]*([a-zA-Z])[0-9]*/g, "$1");
+    .replace(/[^a-zA-Z0-9_-]|[0-9]*([a-zA-Z])[0-9]*/g, "$1")
+    .replace(/--/g, "-");
 }
 // make Sort function based on prefix
 
