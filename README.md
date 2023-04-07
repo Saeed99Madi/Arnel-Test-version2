@@ -9,11 +9,15 @@
 - Node JS.
 - JavaScript.
 
-To Test the Solution :
+To Test the Solution in your computer follow this steps :
+`git clone https://github.com/Saeed99Madi/Arnel-Test-version2`
+
+> then open the Terminal in the folder directory.
 
 > To Test function, In your terminal Type:
 
 `npm install`
+then Run the Test Command "Script".
 `npm test`
 
 Now you can view the test cases results!
