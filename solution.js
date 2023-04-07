@@ -1,6 +1,6 @@
 /* Version2 Solution for findCombinationsFromText (validPrefixes = Keywords) ,
  Cases :
- - if there isn't Subcategory we we take it from Category,
+ - if there isn't Subcategory makes and sup prefixes is enough,
  - if there isn't Subcategory and Make is Found there is not neccasry for Subcategory
  - clear the invalid trilling and leading chars
  - sort the array based on the validPrefixes levels 
