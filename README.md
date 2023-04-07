@@ -2,7 +2,7 @@
 
 ## Description:
 
-![Problem Description](https://drive.google.com/file/d/1TXCHmvvUGphUpwGcds-paj--cdE7KX6H/view?usp=sharing)
+- [Problem Description](https://drive.google.com/file/d/1TXCHmvvUGphUpwGcds-paj--cdE7KX6H/view?usp=sharing)
 
 ## Technologies that I used
 
